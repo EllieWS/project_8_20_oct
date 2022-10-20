@@ -1,14 +1,18 @@
+@font-face {
+  font-family: font awesome;
+  src: url(../fonts/Font\ Awesome\ 5\ Pro-Solid-900.otf);
+}
+h2 {
+  font-family: font awesome;
+}
+.check {
+  color: blue;
+}
+.circle {
+  color: #17bc17;
+}
 p {
-  border: 2px solid;
-  width: 50%;
-  display: inline-block;
-}
-.header {
-  color: brown;
-}
-[class="header"] {
-  color: blueviolet;
-}
-[href="./about.html"] {
-  color: #422a06;
+  font-family: Noto Sans JP;
+  /* font-family: fasthand; */
+  font-size: 2em;
 }
